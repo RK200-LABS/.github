@@ -1,12 +1,20 @@
-## Hi there 👋
+## RK200 LABS👋
 
-<!--
+![마커스](https://i.namu.wiki/i/Y2b8LtAs_lXnASo1S-U_iAqviuYUASh-cFUa93l5xDTXbNHhZiHvj4SOhaetPmQtNDVie1rpLt1r8K94DldsqQ.webp)
 
-**Here are some ideas to get you started:**
+마커스 그는 영웅입니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 👨‍👧‍👦 팀 소개
+
+### **팀명 : RK200 LABS**
+마커스의 의지를 이을자들의 모임
+
+| **분야** | **이름** | **포지션** | **내용** |
+| :---: | :---: | --- | --- |
+| 개발 | 황호연 | 📱  프론트엔드  | 화면 UI 구현, API 연동 |
+| 개발 | 박준서 | 💻 백엔드 | API 구현, ERD 설계, 서버 배포 |
+
+# 🤔 서비스 소개
+
+## 갈래말래
+
