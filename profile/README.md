@@ -16,5 +16,9 @@
 
 # 🤔 서비스 소개
 
-## 갈래말래
+## 갈래말래(잠정 중단)
+[갈래말래](https://github.com/RK200-LABS/GalaeMalae)
+
+## 힙스터큐레이션(가제)
+[힙스터 큐레이션](https://github.com/RK200-LABS/hipQ)
 
